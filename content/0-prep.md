@@ -1,7 +1,7 @@
 ---
 title: Call for Papers
 nav: Call for Papers
-topics: GitHub; Optional Software
+# topics: GitHub; Optional Software
 ---
 We invite submissions to the First Workshop on Geospatial Knowledge Graphs (GeoKG2022) to be held in conjunction with the 
 <a href="https://www.knowledgegraph.tech/">The Knowledge Graph Conference 2022 (KGC2022)</a> that will take place at Cornell Tech campus, New York, 
@@ -55,5 +55,4 @@ Important Dates
   <li>Camera-ready version submissions: April 22, 2022</li>
   <li>Workshop will be held on May 3rd between 9 AM -12PM </li>
 </ul>  
-//git-scm.com/downloads/guis) for managing and visualizing Git repositories, including Linux options.
 
