@@ -1,7 +1,11 @@
 ---
-title: Home
+title: GeoKG@KGC2022
 layout: default
 ---
+
+# Ontologies for the Disaster Domain - WOODD
+### The First International Workshop on Ontologies for the Disaster Domain will be a part of JOWO 2022.
+JOWO 22: Jönköping University, Sweden, August 15-19, 2022.
 
 # Bootstrap Workshop Template!
 
