@@ -16,22 +16,28 @@ the crucial domain and formal aspects that need to be addressed during modeling.
 as well as through discussion on the underlying <em>formal mechanisms.</em> This includes:
 	
 1) Ontologies that focus on modeling the following aspects of the domain
-	- reference ontology or not?
-	- key phases of disaster management life cycle,
-	- connecting core hazard terms (e.g. disaster, risk) and operational concepts (e.g. response task, relief plan)
-	- modeling different spatial-temporal views, such as point, area, or trajectory phenomenon,
-	- linking observational data to hazard events,
-	- modeling causal chains for compounding disasters and disaster impacts,
-	- showing ontology use.
-	
+	<ul>
+	  <li>reference ontology or not?</li>
+	  <li>key phases of disaster management life cycle,</li>
+	  <li>connecting core hazard terms (e.g. disaster, risk) and operational concepts (e.g. response task, relief plan),</li>
+	  <li>modeling different spatial-temporal views, such as point, area, or trajectory phenomenon,</li>
+	  <li>linking observational data to hazard events,</li>
+	  <li>modeling causal chains for compounding disasters and disaster impacts,</li>
+	  <li>showing ontology use.</li>
+	</ul>  
+
 2) Foundational issues
-	- clarifying ontological choices for modeling domain terminology against requirements and foundational theory,	
-	- kinds of entities: abstract/concret, dependent entities/independent entities, natural objects/artifacts,
-	- formal relations: parthood, identity, connection, dependence, constitution, causality, subsumption, instantiation
-	
+	<ul>
+	  <li>clarifying ontological choices for modeling domain terminology against requirements and foundational theory,</li>
+	  <li>kinds of entities: abstract/concret, dependent entities/independent entities, natural objects/artifacts,</li>
+	  <li>formal relations: parthood, identity, connection, dependence, constitution, causality, subsumption, instantiation</li>
+	</ul>
 3) Construction and annotation of domain taxonomies or vocabularies using machine learning and other artificial intelligence technologies
+
 4) Ontology integration and ontology alignmemt
+
 5) Ontology modularity
+
 6) Ontologies and disaster domain knowledge graphs
 
 
@@ -39,7 +45,7 @@ Submissions are particularly welcome that address aspects of this theme, but sub
 
 
 
-##Important Dates:
+## Important Dates:
 ---
 
 <ul>
@@ -50,7 +56,7 @@ Submissions are particularly welcome that address aspects of this theme, but sub
 </ul>  
 
 
-## Submissions:
+### Submissions:
 
 We encourage three types of contributions:
 
@@ -64,7 +70,8 @@ All papers must be original and not submitted to or accepted by any other worksh
 papers are required to be at least 5 pages long. All contributions will be peer-reviewed, and the review process will be managed in a collaborative and transparent manner using 
 the EasyChair System. 
 
-The submission link is https://easychair.org/conferences/?conf=jowo2022 (during submission please choose the right workshop "track")
+The submission link is <a href="https://easychair.org/conferences/?conf=jowo2022" https://easychair.org/conferences/?conf=jowo2022</a>
+(during submission please choose the right workshop "track")
 
 
 Papers should be submitted non-anonymously in PDF format in compliance with the new 1-column CEUR-ART Style. Word and Latex templates can be found at

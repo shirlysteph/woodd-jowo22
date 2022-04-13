@@ -24,16 +24,16 @@ keywords: "workshops, websites, gh-pages, jekyll"
 # use a relative path to image in this repository or full URL
 featured-image: "/images/uidaho-workshop.jpg"
 # add search box to footer? true/false
-search: true
+# search: true
 
 # author settings for cc-by, appears in the footer and credits
-author: evan will
+#author: evan will
 # your github username for link [optional]
-github_username: evanwill
+#github_username: evanwill
 # year or date published
-pub_year: 2021
+#pub_year: 2021
 # location of code, the full url to your github repository
-source-code: https://github.com/evanwill/workshop-template-b
+#source-code: https://github.com/evanwill/workshop-template-b
 
 ##########
 # URL VARIABLES [optional!]

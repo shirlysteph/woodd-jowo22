@@ -1,7 +1,7 @@
 
 ---
-#title: GeoKG@KGC2022
-#layout: default
+title:
+layout: default
 ---
 
 ## Ontologies for the Disaster Domain - WOODD
@@ -9,7 +9,7 @@
 Jönköping University, Sweden, August 15-19, 2022.
 
 
-{% include figure.html img="ijgi.png" alt="intro image here" caption="Library workshop" width="75%" %}
+{% include figure.html img="ijgi.png" alt="intro image here" caption="Image via <a href="https://www.mdpi.com/2220-9964/10/5/324/htm"> paper</a>	 from International Journal of Geo-Information" width="75%" %}
 
 There is an increasing interest in semantically integrating diverse and heterogeneous hazard data-sets, along with representing hazard information in knowledge graphs. However, 
 there are still significant deficiencies in state-of-the-art ontologies that can represent and connect hazard data across independent sources and variant schemas, for example, 
@@ -25,7 +25,7 @@ effective preparation and response to disasters requires discussing some the fol
 
 In order to address these issues, this workshop intends o bring together knowledge modeling engineers, domain ontology experts, developers of disaster knowledge graphs to discuss different techniques and rationale 
 for constructing various ontologies in the disaster domain. This will potentially also set the stage for opening the floor for discussion about limitations of existing research, 
-missing pieces, and overall address a key question "<em><i>Do we need a domain ontology or a reference ontology for the hazard domain</i></em>"?
+missing pieces, and overall address a key question "<i><em>Do we need a domain ontology or a reference ontology for the hazard domain</em></i>"?
 
 
 
