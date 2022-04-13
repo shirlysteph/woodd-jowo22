@@ -16,27 +16,24 @@ the crucial domain and formal aspects that need to be addressed during modeling.
 as well as through discussion on the underlying <em>formal mechanisms.</em> This includes:
 	
 1) Ontologies that focus on modeling the following aspects of the domain
-<ul>
-  <li><a href="https://www.linkedin.com/in/shirly-stephen-84531623">Shirly Stephen</a>, University of California, Santa Barbara, USA</li>
-  <li><a href="https://www.linkedin.com/in/rui-zhu-55250374">Rui Zhu</a>, University of California, Santa Barbara, USA</li>
-  <li><a href="https://www.linkedin.com/in/coganshimizu">Cogan Shimizu</a>, Kansas State University, USA</li>
-</ul>  
+
 <ul>
 	<li>reference ontology or not?</li>
-	  <li>key phases of disaster management life cycle,</li>
-	  <li>connecting core hazard terms (e.g. disaster, risk) and operational concepts (e.g. response task, relief plan),</li>
-	  <li>modeling different spatial-temporal views, such as point, area, or trajectory phenomenon,</li>
-	  <li>linking observational data to hazard events,</li>
-	  <li>modeling causal chains for compounding disasters and disaster impacts,</li>
-	  <li>showing ontology use.</li>
+	<li>key phases of disaster management life cycle,</li>
+	<li>connecting core hazard terms (e.g. disaster, risk) and operational concepts (e.g. response task, relief plan),</li>
+	<li>modeling different spatial-temporal views, such as point, area, or trajectory phenomenon,</li>
+	<li>linking observational data to hazard events,</li>
+	<li>modeling causal chains for compounding disasters and disaster impacts,</li>
+	<li>showing ontology use.</li>
 	</ul>  
 
 2) Foundational issues
-	<ul>
-	  <li>clarifying ontological choices for modeling domain terminology against requirements and foundational theory,</li>
-	  <li>kinds of entities: abstract/concret, dependent entities/independent entities, natural objects/artifacts,</li>
-	  <li>formal relations: parthood, identity, connection, dependence, constitution, causality, subsumption, instantiation</li>
-	</ul>
+<ul>
+	<li>clarifying ontological choices for modeling domain terminology against requirements and foundational theory,</li>
+	<li>kinds of entities: abstract/concret, dependent entities/independent entities, natural objects/artifacts,</li>
+	<li>formal relations: parthood, identity, connection, dependence, constitution, causality, subsumption, instantiation</li>
+</ul>
+
 3) Construction and annotation of domain taxonomies or vocabularies using machine learning and other artificial intelligence technologies
 
 4) Ontology integration and ontology alignmemt
@@ -75,7 +72,7 @@ All papers must be original and not submitted to or accepted by any other worksh
 papers are required to be at least 5 pages long. All contributions will be peer-reviewed, and the review process will be managed in a collaborative and transparent manner using 
 the EasyChair System. 
 
-The submission link is <a href="https://easychair.org/conferences/?conf=jowo2022" https://easychair.org/conferences/?conf=jowo2022</a>
+The submission link is <a href="https://easychair.org/conferences/?conf=jowo2022"> https://easychair.org/conferences/?conf=jowo2022</a>
 (during submission please choose the right workshop "track")
 
 

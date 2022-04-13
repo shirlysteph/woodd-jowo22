@@ -1,7 +1,5 @@
 
----
 
----
 
 ## Ontologies for the Disaster Domain - WOODD
 ### The First International Workshop On Ontologies for the Disaster Domain will be a part of <a href="https://www.iaoa.org/jowo/2022/index.html">JOWO 2022(KGC2022)</a>.
