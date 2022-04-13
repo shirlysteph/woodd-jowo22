@@ -16,8 +16,13 @@ the crucial domain and formal aspects that need to be addressed during modeling.
 as well as through discussion on the underlying <em>formal mechanisms.</em> This includes:
 	
 1) Ontologies that focus on modeling the following aspects of the domain
-	<ul>
-	  <li>reference ontology or not?</li>
+<ul>
+  <li><a href="https://www.linkedin.com/in/shirly-stephen-84531623">Shirly Stephen</a>, University of California, Santa Barbara, USA</li>
+  <li><a href="https://www.linkedin.com/in/rui-zhu-55250374">Rui Zhu</a>, University of California, Santa Barbara, USA</li>
+  <li><a href="https://www.linkedin.com/in/coganshimizu">Cogan Shimizu</a>, Kansas State University, USA</li>
+</ul>  
+<ul>
+	<li>reference ontology or not?</li>
 	  <li>key phases of disaster management life cycle,</li>
 	  <li>connecting core hazard terms (e.g. disaster, risk) and operational concepts (e.g. response task, relief plan),</li>
 	  <li>modeling different spatial-temporal views, such as point, area, or trajectory phenomenon,</li>

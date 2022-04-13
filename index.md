@@ -1,7 +1,6 @@
 
 ---
-title:
-layout: default
+
 ---
 
 ## Ontologies for the Disaster Domain - WOODD
