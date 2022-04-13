@@ -37,17 +37,38 @@ intelligence services using innovative machine learning techniques. The main top
     - Applications of Geospatial Knowledge Graphs (e.g. knowledge graphs in environmental data integration and AI systems)
 
 
+###Important Dates
+---
+
+<ul>
+  <li>Papers submissions: April 12, 2022</li>
+  <li>Papers notifications: April 16, 2022</li>
+  <li>Camera-ready version submissions: April 22, 2022</li>
+  <li>Workshop will be held on May 3rd between 9 AM -12PM </li>
+</ul>  
+
+
 ## Submissions:
-We invite the submission of original research results and industry-level applications related to the focus areas of the workshop, in one of two categories given below. All submissions are requested through EasyChair.
 
-1) Short papers (maximum 5 pages LNCS style) presenting proposed research directions, novel ideas, use-case scenarios, established results or more general positions or discussions.
+We encourage three types of contributions:
 
-2) Vision papers (maximum 4 pages ) presenting important directions for future research on GeoKGs. Such papers should identify key problem areas for GeoKGs, and propose potential solutions or strategies that could be developed to address such problems. Ideally the papers should highlight open research questions for GeoKGs, and should stimulate future research.
+• Full research paper: Submitted papers must not exceed 14 pages excluding the bibliography. Please, note that the minimum length is 10 pages.
 
-Submissions should be sent to  geokg.kgc22@gmail.com
+• Short paper: Submitted papers must not exceed 6 pages excluding the bibliography. Please, note that the minimum length is 5 pages (including the bibliography).
+
+• Extended abstracts (presentation only) should be 2-4 pages long including the bibliography. Please, note that extended abstracts will not be included in the CEUR proceedings.
+
+
+All papers must be original and not submitted to or accepted by any other workshop, conference or journal. Note, that for inclusion in the JOWO proceedings, short and position
+papers are required to be at least 5 pages long. All contributions will be peer-reviewed, and the review process will be managed in a collaborative and transparent manner using 
+the EasyChair System. 
+
+The submission link is https://easychair.org/conferences/?conf=jowo2022
+
 
 Papers should be submitted non-anonymously in PDF format in compliance with the new 1-column CEUR-ART Style. Word and Latex templates can be found at
 <a href="https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/">https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/</a>
+
 
 
 All contributions to JOWO workshops (full and short papers) will be published in a joint CEUR proceedings volume, compare:
@@ -58,13 +79,5 @@ JOWO 2020: <a href="http://ceur-ws.org/Vol-2708/">http://ceur-ws.org/Vol-2708/</
 
 JOWO 2019: <a href="http://ceur-ws.org/Vol-2518/">http://ceur-ws.org/Vol-2518/</a>
 
-###Important Dates
----
 
-<ul>
-  <li>Papers submissions: April 12, 2022</li>
-  <li>Papers notifications: April 16, 2022</li>
-  <li>Camera-ready version submissions: April 22, 2022</li>
-  <li>Workshop will be held on May 3rd between 9 AM -12PM </li>
-</ul>  
 
