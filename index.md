@@ -9,7 +9,7 @@ layout: default
 Jönköping University, Sweden, August 15-19, 2022.
 
 
-{% include figure.html img="ijgi.png" alt="intro image here" caption="Image via <a href="https://www.mdpi.com/2220-9964/10/5/324/htm"> paper</a>	 from International Journal of Geo-Information" width="75%" %}
+{% include figure.html img="ijgi.png" alt="intro image here" caption="Image via paper from International Journal of Geo-Information" width="75%" %}
 
 There is an increasing interest in semantically integrating diverse and heterogeneous hazard data-sets, along with representing hazard information in knowledge graphs. However, 
 there are still significant deficiencies in state-of-the-art ontologies that can represent and connect hazard data across independent sources and variant schemas, for example, 
