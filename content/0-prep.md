@@ -46,7 +46,19 @@ We invite the submission of original research results and industry-level applica
 
 Submissions should be sent to  geokg.kgc22@gmail.com
 
-Important Dates
+Papers should be submitted non-anonymously in PDF format in compliance with the new 1-column CEUR-ART Style. Word and Latex templates can be found at
+<a href="https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/">https://ceurws.wordpress.com/2020/03/31/ceurws-publishes-ceurart-paper-style/</a>
+
+
+All contributions to JOWO workshops (full and short papers) will be published in a joint CEUR proceedings volume, compare:
+
+JOWO 2021: <a href="http://ceur-ws.org/Vol-2969/">http://ceur-ws.org/Vol-2969/</a>
+
+JOWO 2020: <a href="http://ceur-ws.org/Vol-2708/">http://ceur-ws.org/Vol-2708/</a> 
+
+JOWO 2019: <a href="http://ceur-ws.org/Vol-2518/">http://ceur-ws.org/Vol-2518/</a>
+
+###Important Dates
 ---
 
 <ul>
