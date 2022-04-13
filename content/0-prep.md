@@ -30,7 +30,7 @@ as well as through discussion on the underlying <em>formal mechanisms.</em> This
 2) Foundational issues
 <ul>
 	<li>clarifying ontological choices for modeling domain terminology against requirements and foundational theory,</li>
-	<li>kinds of entities: abstract/concret, dependent entities/independent entities, natural objects/artifacts,</li>
+	<li>kinds of entities: abstract/concrete, dependent entities/independent entities, natural objects/artifacts,</li>
 	<li>formal relations: parthood, identity, connection, dependence, constitution, causality, subsumption, instantiation</li>
 </ul>
 

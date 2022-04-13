@@ -2,7 +2,7 @@
 title: Organization
 nav: Organization
 ---
-##Workshop Chairs
+### Workshop Chairs
 ---
 <ul>
   <li><a href="https://www.linkedin.com/in/shirly-stephen-84531623">Shirly Stephen</a>, University of California, Santa Barbara, USA</li>
@@ -10,10 +10,10 @@ nav: Organization
   <li><a href="https://www.linkedin.com/in/coganshimizu">Cogan Shimizu</a>, Kansas State University, USA</li>
 </ul>  
 
-##Workshop Panelists
+### Workshop Panelists
 ---
 TBA
 
-##Program Committee
+### Program Committee
 ---
 TBA
