@@ -10,9 +10,6 @@ nav: Organization
   <li><a href="https://www.linkedin.com/in/coganshimizu">Cogan Shimizu</a>, Kansas State University, USA</li>
 </ul>  
 
-### Workshop Panelists
----
-TBA
 
 ### Program Committee
 ---
